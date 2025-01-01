@@ -1,16 +1,50 @@
-## Hi there 👋
+<h1 align="left">Hi, I'm Changeon Jeon, a developer&nbsp;&nbsp;🧸</h1>
 
-<!--
-**fx712-code/fx712-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="left">A high school student from the Republic of Korea, bearing a deep passion for programming!</h3>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **Bear**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about **Flutter & Dart**
+
+- 📫 How to reach me **cgido7318@yahoo.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://stackoverflow.com/users/fx._712" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="fx._712" height="30" width="40" style="margin-right: 15px;" />
+  </a>
+  <a href="https://instagram.com/fx._712" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fx._712" height="30" width="40" style="margin-right: 15px;" />
+  </a>
+</p>
+
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" style="margin-right: 15px;"/>
+  </a>
+  <a href="https://dart.dev" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40" style="margin-right: 15px;"/>
+  </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" style="margin-right: 15px;"/>
+  </a>
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" style="margin-right: 15px;"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="margin-right: 15px;"/>
+  </a>
+  <a href="https://unity.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40" style="margin-right: 15px;"/>
+  </a>
+</p>
+
+<br/>
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fx712-code&show_icons=true&locale=en&layout=compact" alt="fx712-code" />
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fx712-code&show_icons=true&locale=en" alt="fx712-code" />
+</p>
+
